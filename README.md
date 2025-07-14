@@ -3,7 +3,7 @@
 
 ---
 # 💫 About Me:
-- 🔭 I’m currently working on enhancing my skills in **TypeScript**, **Next.js**, and **PostgreSQL**.<br><br>
+- 🔭 I’m currently focused on enhancing my skills in **TypeScript**, **Next.js**, and **PostgreSQL**, while also exploring practical applications of **AI** and **IoT**.<br><br>
 - 🌱 I’m currently learning more about **AI and Full-Stack Web Development** with a focus on modern frameworks.<br><br>
 - 🤖 My interests lie in **Artificial Intelligence**, **Machine Learning**, **Web Development**, and **IoT**.<br><br>
 - 💻 I have experience with **Python**, **JavaScript**, **TypeScript**, **React**, and **C++**.<br><br>
