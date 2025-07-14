@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on enhancing my skills in **TypeScript**, **Next.js**, and **PostgreSQL**.
 
-- 🌱 I’m currently learning more about **full-stack web development** with a focus on modern frameworks.
+- 🌱 I’m currently learning more about **AI and Full-Stack Web Development** with a focus on modern frameworks.
 
 - 🤖 My interests lie in **Artificial Intelligence**, **Machine Learning**, **Web Development**, and **IoT**.
 
