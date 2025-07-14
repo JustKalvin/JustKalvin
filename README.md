@@ -41,8 +41,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/JustKalvin/JustKalvin/output/snake.svg" alt="Snake animation" />
-
-###
 
 ![Footer GIF](/img/GitHub%20Profile%20Footer%20GIF.gif)
