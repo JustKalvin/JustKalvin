@@ -34,3 +34,5 @@
 - ✨ My GitHub profile serves as a **portfolio** showcasing my work and skills.
 
 ---
+
+![Footer GIF](/img/GitHub%20Profile%20Footer%20GIF.gif)
