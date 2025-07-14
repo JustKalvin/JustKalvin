@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi There! I'm Kalvin. 👋
 
-<!--
-**JustKalvin/JustKalvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on enhancing my skills in **TypeScript**, **Next.js**, and **PostgreSQL**.
+<br>
+- 🌱 I’m currently learning more about **full-stack web development** with a focus on modern frameworks.
+<br>
+- 🤖 My interests lie in **Artificial Intelligence**, **Machine Learning**, **Web Development**, and **IoT**.
+<br>
+- 💻 I have experience with **Python**, **JavaScript**, **TypeScript**, **React**, and **C++**.
+<br>
+- 🚀 Some of my past projects include :
+    - **[PintarSaham](https://github.com/JustKalvin/pintar_saham_project)**: An educational web application designed to simplify stock market learning. Its core features include interactive learning modules, real-time stock news, dynamic stock charts, and an innovative **"Stock Analysis"** game that integrates ML and GPT models to predict stock price movements (up or down).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    - **[Laughing Face](https://github.com/JustKalvin/ureeka_final_project2)** : A gamified web application focused on improving mental well-being through laughter. Featuring a "Try Not To Laugh" game utilizing face recognition, Smile Simulation, Jokes Generator, journaling, and a leaderboard, this app is designed to create an engaging and fun experience.
+
+    - **[Medical Object Extraction](https://github.com/JustKalvin/CompBio
+    )** : This project leverages a Machine Learning model (Biomedical-NER-all) and a GPT model to perform Named Entity Recognition (NER) on medical objects, then automatically retrieves in-depth definitions for the identified medical entities.
+
+    - **[Stock Market Analysis](https://github.com/JustKalvin/stock-market-project)** : A stock market analysis application utilizing an ML model (LSTM Time Series Analysis) and a GPT model. Its purpose is to predict future stock prices and assist users in making investment decisions, such as when to buy or not.t
+<br>
+- 📚 I actively share my knowledge as a :
+    - Mentor (Odd Semester 2024/2025)
+    - Tutor (Calculus) (Even Semester 2025/2026)
+    - Tutor for BSLC Mid-term Exam (Machine Learning, Natural Language Processing, Speech Recognition)
+    - Tutor for BSLC Final Exam (Natural Language Processing, Speech Recognition, Computational Biology)
+<br>
+- 📫 You can reach me via :
+    - **Email**: kalvinsupriadi3@gmail.com
+    - **LinkedIn**: [Kalvin Kalvin](https://www.linkedin.com/in/kalvinkalvin/)
+<br>
+- ✨ My GitHub profile serves as a **portfolio** showcasing my work and skills.
+
+---
