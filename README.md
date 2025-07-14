@@ -1,4 +1,5 @@
 ## Hi There! I'm Kalvin. 👋
+![Banner GitHub](img/Banner%20GitHub.png)
 
 ---
 
