@@ -23,8 +23,8 @@
 - 📚 I actively share my knowledge as a :
     - Mentor (Odd Semester 2024/2025)
     - Tutor (Calculus) (Even Semester 2025/2026)
-    - [Tutor for BSLC Mid-term Exam](https://github.com/JustKalvin/JustKalvin/img/CertiMid.jpg) (Machine Learning, Natural Language Processing, Speech Recognition)
-    - [Tutor for BSLC Final Exam](https://github.com/JustKalvin/JustKalvin/img/CertiFinal.jpg) (Natural Language Processing, Speech Recognition, Computational Biology)
+    - [Tutor for BSLC Mid-term Exam](https://raw.githubusercontent.com/JustKalvin/JustKalvin/refs/heads/main/img/CertiMid.jpg) (Machine Learning, Natural Language Processing, Speech Recognition)
+    - [Tutor for BSLC Final Exam](https://raw.githubusercontent.com/JustKalvin/JustKalvin/refs/heads/main/img/CertiFinal.jpg) (Natural Language Processing, Speech Recognition, Computational Biology)
 
 - 📫 You can reach me via :
     - **Email**: kalvinsupriadi3@gmail.com
